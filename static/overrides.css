@@ -1,0 +1,12 @@
+body {
+    background-image: url(images/overlay.png), linear-gradient(60deg, rgba(230, 140, 125, 0.5) 20%, rgba(230, 159, 0, 0.62));
+}
+
+#footer ul.copyright > li {
+    border-color: black;
+    color: black;
+}
+
+.biography {
+    font-size: 0.9em;
+}
